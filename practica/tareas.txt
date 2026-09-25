@@ -1,0 +1,5 @@
+1: Mimir
+2: Comer
+3: Lavar
+4: Tender mi cama
+5: Hacer mis tareas
